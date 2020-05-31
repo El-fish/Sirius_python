@@ -1,3 +1,2 @@
-year = 2019
-year -=- 1
-print(year)
+for x in range(11):
+    print(x)
