@@ -1,4 +1,7 @@
 n = int(input())
-for i in range(n + 1):
+s = 0
+for i in range(n):
     c = int(input())
-    print(i)
+    if c == 0:
+        s += 1
+print(s)
