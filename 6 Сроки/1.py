@@ -1,0 +1,19 @@
+s = "Черёмухашный"
+#1
+print(s[2])
+#2
+print(s[-2])
+#3
+print(s[:5])
+#4
+print(s[:-2])
+#5
+print(s[0::2])
+#6
+print(s[1::2])
+#7
+print(s[::-1])
+#8
+print(s[::-2])
+#9
+print(len(s))
